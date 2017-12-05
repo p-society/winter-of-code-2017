@@ -12,8 +12,6 @@ Well we are preparing a list of resources(tutorials, articles, etc) that you can
 
 ## Participating Projects
 ### Personal Projects
-To be updated soon
+* Rosei Automation Tool - A tool to automate booking of mess coupons.
 
 ### Projects by other organizations
-
-
