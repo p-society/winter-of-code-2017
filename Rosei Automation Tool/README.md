@@ -33,7 +33,8 @@ The preferences file can either be a text file (.txt) or a binary file (.dat). T
 ***
 
 # Issues
-### The program sometimes gets stuck at the 'booking complete' webpage when the coupons are to be booked at both the roseigharas. A temporary fix by using `sleep(2)` has been made for this issue at line #95, although it doesn't work everytime.
+* #### The program sometimes gets stuck at the 'booking complete' webpage when the coupons are to be booked at both the roseigharas. A temporary fix by using `sleep(2)` has been made for this issue at line #95, although it doesn't work everytime.
 
+***
 #### Distributed under MIT License.
 #### Copyright © 2017 Ravi Teja Gannavarapu.
