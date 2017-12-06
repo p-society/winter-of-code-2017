@@ -12,8 +12,20 @@ Well we are preparing a list of resources(tutorials, articles, etc) that you can
 
 ## Participating Projects
 ### Personal Projects
-To be updated soon
+| Project | Domains/Technologies | Mentor(s) | Contact |
+| ------ | ------ | ------ | ------ |
+| [CoWaPS](https://github.com/palash25/CoWaPS) | web-scraping, python | [Palash Nigam](https://github.com/palash25) | Gitter/Slack: palash25 |
 
 ### Projects by other organizations
+**Note:** The mentors listed in this list are not official mentors in these organizations but have past experience in contributing to these organizations so you can contact them in case you get stuck but since an organization already has a lot maintainers/contributors to help you out try to contact them first on the chat rooms or IRCs.
 
+This is a non-exhaustive list of organizations that you may want to contribute to but its not limited to these, you can contribute to any open source organization that you like.
 
+| Organization | Domains/Technologies | Mentor(s) | Contact |
+| ------ | ------ | ------ | ------ |
+| DuckDuckGo | search-engine, perl, javascript | [Palash Nigam](https://github.com/palash25) | Gitter/Slack: palash25 |
+| coala | code-linting, cli, python | [Palash Nigam](https://github.com/palash25), [Ayush Shridhar](https://github.com/ayush1999), [Ravi Teja](https://github.com/iamravitejag) | Gitter: palash25,  |
+| Sympy | symbolic-computation, python | [Ayush Shridhar](https://github.com/ayush1999) |  |
+| Astropy | astronomical-computation, python | [Ayush Shridhar](https://github.com/ayush1999) |  |
+| KDE | C++ | [Aman Gupta](http://github.com/gupta2140/) |  |
+| Boost | C++ | [Aman Gupta](http://github.com/gupta2140/) |  |
