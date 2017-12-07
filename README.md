@@ -29,3 +29,6 @@ This is a non-exhaustive list of organizations that you may want to contribute t
 | Astropy | astronomical-computation, python | [Ayush Shridhar](https://github.com/ayush1999) |  |
 | KDE | C++ | [Aman Gupta](http://github.com/gupta2140/) |  |
 | Boost | C++ | [Aman Gupta](http://github.com/gupta2140/) |  |
+| Systers | Django-Framework, Python | [Sonakshi Saxena](https://github.com/sonakshisaxena1) | Gitter/Slack: sonakshisaxena1  |
+
+
