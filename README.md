@@ -18,6 +18,10 @@ Well we are preparing a list of resources(tutorials, articles, etc) that you can
 | [Rosei Automation Tool (RAT) (w/ GUI)](https://github.com/IamRaviTejaG/IIIT-Bh-Projects) | Selenium, Webdriver, Python | [Ravi Teja Gannavarapu](https://github.com/IamRaviTejaG) | Gitter/Slack: iamravitejag |
 | [lterm](http://github.com/sr6033/lterm) | HTML, CSS, JavaScript/Jquery | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
 | [Text Generation](https://github.com/ayush1999/Text-Generation-Using-Project-Gutenberg) | Machine Learning, Deep Learning, LSTM, NLP, Python | [Ayush Shridhar](https://github.com/ayush1999) | Gitter/Slack: ayush1999 |
+| [Locale.js](https://github.com/sr6033/locale.js) | HTML, JavaScript, Node | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
+| [Text-Mining](https://github.com/sr6033/text-mining) | python, numpy, nltk, wordnet | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
+| [Cryptography](https://github.com/sr6033/cryptography) | C, C++ | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
+| [Data Structures Algorithms](https://github.com/sr6033/dataStructure-Algorithms) | Python, Java, C, C++ | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
 
 ### Projects by other organizations
 **Note:** The mentors listed in this list are not official mentors in these organizations but have past experience in contributing to these organizations so you can contact them in case you get stuck but since an organization already has a lot maintainers/contributors to help you out try to contact them first on the chat rooms or IRCs.
