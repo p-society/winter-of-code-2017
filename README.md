@@ -17,6 +17,7 @@ Well we are preparing a list of resources(tutorials, articles, etc) that you can
 | [CoWaPS](https://github.com/palash25/CoWaPS) | web-scraping, python | [Palash Nigam](https://github.com/palash25) | Gitter/Slack: palash25 |
 | [Rosei Automation Tool (RAT) (w/ GUI)](https://github.com/IamRaviTejaG/IIIT-Bh-Projects) | Selenium, Webdriver, Python | [Ravi Teja Gannavarapu](https://github.com/IamRaviTejaG) | Gitter/Slack: iamravitejag |
 | [lterm](http://github.com/sr6033/lterm) | HTML, CSS, JavaScript/Jquery | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
+| [Text Generation](https://github.com/ayush1999/Text-Generation-Using-Project-Gutenberg) | Machine Learning, Deep Learning, LSTM, NLP, Python | [Ayush Shridhar](https://github.com/ayush1999) | Gitter/Slack: ayush1999 |
 | [Locale.js](https://github.com/sr6033/locale.js) | HTML, JavaScript, Node | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
 | [Text-Mining](https://github.com/sr6033/text-mining) | python, numpy, nltk, wordnet | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
 | [Cryptography](https://github.com/sr6033/cryptography) | C, C++ | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
