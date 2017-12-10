@@ -4,7 +4,7 @@ The programming society of IIIT-Bh presents Winter of Code. An opportunity for t
 
 ## How does this work?
 
-During this winter you will work on open sourced projects created/maintained by your seniors and also on projects created/maintained by open source software organizations. You will keep a record of all the contributions you have made to different as a gists containing the links to all the PRs merged and issues raised and you will submit that list to us at the end of the competition folowing which the winners will be announced.
+During this winter you will work on open sourced projects created/maintained by your seniors and also on projects created/maintained by open source software organizations. You will keep a record of all the contributions you have made to different projects containing the links to all the PRs merged in a [google spreadsheet](https://docs.google.com/a/iiit-bh.ac.in/spreadsheets/d/1SAQRuBoCmQo-nDX7lTBU9gY9D_METgjZ6nvqIPNQbzA/edit?usp=sharing) folowing which the winners will be announced.
 
 ## But I know nothing about open source or software development. How do I get started?
 
@@ -15,6 +15,7 @@ Well we are preparing a list of resources(tutorials, articles, etc) that you can
 | Project | Domains/Technologies | Mentor(s) | Contact |
 | ------ | ------ | ------ | ------ |
 | [CoWaPS](https://github.com/palash25/CoWaPS) | web-scraping, python | [Palash Nigam](https://github.com/palash25) | Gitter/Slack: palash25 |
+| [pyphers](https://github.com/palash25/pyphers) | algorithms, cryptography, python | [Palash Nigam](https://github.com/palash25) | Gitter/Slack: palash25 |
 | [Rosei Automation Tool (RAT) (w/ GUI)](https://github.com/IamRaviTejaG/IIIT-Bh-Projects) | Selenium, Webdriver, Python | [Ravi Teja Gannavarapu](https://github.com/IamRaviTejaG) | Gitter/Slack: iamravitejag |
 | [lterm](http://github.com/sr6033/lterm) | HTML, CSS, JavaScript/Jquery | [Shubham Rath](https://github.com/sr6033) | Gitter/Slack: sudom0nk |
 | [Text Generation](https://github.com/ayush1999/Text-Generation-Using-Project-Gutenberg) | Machine Learning, Deep Learning, LSTM, NLP, Python | [Ayush Shridhar](https://github.com/ayush1999) | Gitter/Slack: ayush1999 |
@@ -37,3 +38,10 @@ This is a non-exhaustive list of organizations that you may want to contribute t
 | KDE | C++ | [Aman Gupta](http://github.com/gupta2140/) |  |
 | Boost | C++ | [Aman Gupta](http://github.com/gupta2140/) |  |
 | Systers | Django-Framework, Python | [Sonakshi Saxena](https://github.com/sonakshisaxena1) | Gitter/Slack: sonakshisaxena1 |
+
+
+## For Mentors
+If you want your project to be a part of this just update the README and create a PR
+
+## Join our gitter channel
+For more details and to lear your doubts contact join our [gitter chat room](https://gitter.im/p-soc/Winter-of-Code)
