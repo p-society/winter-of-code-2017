@@ -1,5 +1,5 @@
 # Winter Of Code 2017
-
+![BWoC image](https://raw.githubusercontent.com/palash25/winter-of-code-2017/master/assets/img.jpg)
 The programming society of IIIT-Bh presents Winter of Code. An opportunity for those who want to get started with contributing to open source softwares but don't know how to. We know how frustrating and intimidating it can be, we've all been there and this is why we have decided to give you a chance to wet your feet in this vast ocean of **open source** and get you ready for a deep dive (maybe GSoC).
 
 ## How does this work?
